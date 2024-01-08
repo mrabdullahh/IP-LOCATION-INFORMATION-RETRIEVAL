@@ -1,14 +1,14 @@
-Overview:
+**Overview:**
 
 This Bash script is designed to retrieve and display geolocation information for a specified IP address using the ip-api.com JSON API. It provides a convenient and straightforward way to obtain details such as city, region, country, ZIP code, timezone, latitude, longitude, organization, ISP (Internet Service Provider), and the queried IP address.
 
-Requirements:
+**Requirements:**
 
 1. Bash shell
 2. curl command-line tool
 3. jq command-line JSON processor
 
-Usage:
+**Usage:**
 
 1. Make sure you have the necessary tools installed (curl and jq).
 2. Clone or download the script to your local machine.
